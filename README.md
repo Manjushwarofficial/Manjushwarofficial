@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manjushwar Khairkar
-- 👀 I’m interested in Data Science and being Data analytics 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data structures and algorithm
 - 📫 You can reach out to me on my email
 - 😄 Pronouns: he/him
