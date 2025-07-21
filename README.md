@@ -52,7 +52,7 @@ I'm a passionate Data Science and Engineering** student at NIT Jalandhar, commit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjushwarofficial&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/manjushwar-khairkar-a1ba39309/))
 [![Quora]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://www.quora.com/profile/Manjushwar-Khaikar))
