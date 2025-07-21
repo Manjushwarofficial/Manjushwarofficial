@@ -2,7 +2,7 @@
 
 # ⚡Manjushwar Khairkar⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;NLP+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
 
 ## About Me
 
