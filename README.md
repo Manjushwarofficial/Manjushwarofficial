@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate Data Science and Engineering** student at NIT Jalandhar, committed to leveraging data to solve real-world problems. I love exploring the intersection of Data Preprocessing, Machine Learning and Deep Learning to create and contribute in interesting projects.
+I'm a passionate Data Science and Engineering student at NIT Jalandhar, committed to leveraging data to solve real-world problems. I love exploring the intersection of Data Preprocessing, Machine Learning and Deep Learning to create and contribute in interesting projects.
 
 ## Tech Stack
 
