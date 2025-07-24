@@ -1,10 +1,11 @@
 <div align="center">
 
-# ⚡Manjushwar Khairkar⚡
+⚡MANJUSHWAR KHAIRKAR⚡
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
 
-## About Me
+# About Me
 
 I'm a passionate Data Science and Engineering student at NIT Jalandhar, committed to leveraging data to solve real-world problems. I love exploring the intersection of Data Preprocessing, Machine Learning and Deep Learning to create and contribute in interesting projects.
 
@@ -16,7 +17,7 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Python Libraries & Frameworks
+### Data Science and ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -26,12 +27,16 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket-4A90E2?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend and Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0066CC?style=for-the-badge&logo=rapidapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,12 +52,6 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjushwarofficial&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjushwarofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-## Connect with Me
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/manjushwar-khairkar-a1ba39309/))
-[![Quora]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://www.quora.com/profile/Manjushwar-Khaikar))
-[![Email](mailto:manjushwarpk.ds.23@nitj.ac.in)
 
 
 <b>✨ Thanks for visiting my profile! Let's connect and build something amazing together! ✨</b>
