@@ -1,6 +1,6 @@
 <div align="center">
 
-⚡MANJUSHWAR KHAIRKAR⚡
+## ⚡MANJUSHWAR KHAIRKAR⚡
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
@@ -8,6 +8,19 @@
 # About Me
 
 I'm a passionate Data Science and Engineering student at NIT Jalandhar, committed to leveraging data to solve real-world problems. I love exploring the intersection of Data Preprocessing, Machine Learning and Deep Learning to create and contribute in interesting projects.
+
+
+### Connect with Me
+<a href="https://www.linkedin.com/in/manjushwar-khairkar-a1ba39309/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="[https://twitter.com/your-twitter-handle](https://x.com/ig_Manjushwar?t=TQpG_MB06YjhEF0EkTjq8g&s=08)">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:manjushwarofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 
 ## Tech Stack
 
@@ -51,9 +64,23 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjushwarofficial&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjushwarofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=manjushwarofficial&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjushwarofficial&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">## GitHub Trophies</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manjushwarofficial&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
 <b>✨ Thanks for visiting my profile! Let's connect and build something amazing together! ✨</b>
-
 </div>
