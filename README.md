@@ -14,7 +14,7 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
 <a href="https://www.linkedin.com/in/manjushwar-khairkar-a1ba39309/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="[https://twitter.com/your-twitter-handle](https://x.com/ig_Manjushwar?t=TQpG_MB06YjhEF0EkTjq8g&s=08)">
+<a href="https://x.com/ig_Manjushwar?t=TQpG_MB06YjhEF0EkTjq8g&s=08">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 <a href="mailto:manjushwarofficial@gmail.com">
