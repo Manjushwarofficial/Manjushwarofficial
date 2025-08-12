@@ -75,7 +75,7 @@ I'm a passionate Data Science and Engineering student at NIT Jalandhar, committe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjushwarofficial&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">## GitHub Trophies</div>
+<div align="center">GitHub Trophies </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manjushwarofficial&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
