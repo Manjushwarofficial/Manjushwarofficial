@@ -1,4 +1,4 @@
-## GitHub Trophies
+<h2 align="center">GitHub Trophies</h2>
 
 <div align="center"></div>
 <div align="center">
@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-<b>✨ Thanks for visiting my profile! Let's connect and build something amazing together! ✨</b>
+<b>Thanks for visiting my profile! Let's connect and build something amazing together!</b>
 </div>
