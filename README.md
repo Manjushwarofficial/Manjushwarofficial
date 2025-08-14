@@ -1,6 +1,4 @@
-
-
-<div align="center">## GitHub Trophies </div>
+## GitHub Trophies
 
 <div align="center"></div>
 <div align="center">
