@@ -22,7 +22,7 @@
   <b>"Whenever I climb I am followed by a dog called Ego."<br>
   – Friedrich Nietzsche</b><br><br>
 
-  <b>“LIFE is a mosaic of pleasure and pain – grief is an interval between two moments of joy. 
+  <b>“Life is a mosaic of pleasure and pain – grief is an interval between two moments of joy. 
   Peace is the interlude between two wars. You have no rose without a thorn; 
   the diligent picker will avoid the pricks and gather the flower.”<br>
   – Someone</b>
