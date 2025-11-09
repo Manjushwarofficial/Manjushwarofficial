@@ -13,15 +13,7 @@
 
 
 <p>
-  <b>“The pain I feel now is the happiness I had before. That's the deal.”<br>
-  – C.S. Lewis</b><br><br>
-
-  <b>“To live is to suffer, to survive is to find some meaning in the suffering.”<br>
-  – Friedrich Nietzsche</b><br><br>
-
-  <b>"Whenever I climb I am followed by a dog called Ego."<br>
-  – Friedrich Nietzsche</b><br><br>
-
+  
   <b>“Life is a mosaic of pleasure and pain – grief is an interval between two moments of joy. 
   Peace is the interlude between two wars. You have no rose without a thorn; 
   the diligent picker will avoid the pricks and gather the flower.”<br>
