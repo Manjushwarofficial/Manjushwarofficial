@@ -12,12 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjushwarofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<p>
-  
-  <b>“Life is a mosaic of pleasure and pain – grief is an interval between two moments of joy. 
-  Peace is the interlude between two wars. You have no rose without a thorn; 
-  the diligent picker will avoid the pricks and gather the flower.”<br>
-  – Someone</b>
+<p align="center">
+  <b>Thanks for visiting my profile! </b>
 </p>
-
 
