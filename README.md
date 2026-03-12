@@ -56,6 +56,4 @@
 <br><br>
 "The more you know about someting, the more you know you don't."   - Aristotle
 
-## Profile Views
-![Profile View](https://komarev.com/ghpvc/?username=manjushwarofficial9&color=blueviolet&base=15)
 
