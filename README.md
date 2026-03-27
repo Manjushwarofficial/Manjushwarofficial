@@ -54,6 +54,6 @@
 </p>
 
 <br><br>
-"The more you know about someting, the more you know you don't."   - Aristotle
+"The more you know about someting, the less you know"   - Aristotle
 
 
