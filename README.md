@@ -72,21 +72,11 @@ My Portfolio: [Click Here](https://manjushwarofficial.github.io/Portfolio-Site/)
 
 - ⚡ **Fun fact:** The term **"bug"** in coding actually came from a real-life moth stuck in a computer—so yes, debugging has been a thing since the 1940s.  
 
-### ⚙️ My Skill Set
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" />
-    <img src="https://skillicons.dev/icons?i=java,c,python&theme=light" />
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode&theme=light" />
-  </a>
-</p>
 
 ### 📝 GitHub Summary  
 <div align="center">
-   <img height="160em" src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/0-profile-details.svg" />
-   <img height="160em" src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/1-repos-per-language.svg" />
-   <img height="162em" src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/2-most-commit-language.svg" />
-   <img height="162em" src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/3-stats.svg" />
-   <img height="162em" src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/4-productive-time.svg" /><br>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manjushwarofficial&show_icons=true&theme=solarized&hide_border=true" alt="GitHub Stats" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjushwarofficial&layout=compact&theme=solarized&hide_border=true" alt="Top Languages" />
+   <img height="162em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjushwarofficial&theme=solarized&hide_border=true" alt="GitHub Streak" /><br>
   </div>
