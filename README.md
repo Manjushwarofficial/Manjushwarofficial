@@ -1,9 +1,27 @@
+
 <!-- Header -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Manjushwar+Khairkar;Data+Science+%26+ML+Engineer;Open+Source+Contributor&color=00FF00" alt="Typing SVG" />
 </p>
 
+
+
+<div align="center">
+<img src="https://github.com/Manjushwarofficial/Manjushwarofficial/blob/main/octocat-1722675939684.png" align="right" height="" width="350" />
+
+</div>  
+  
+### <div align="center">
+
+I am drawn to problems that are unusual and sit between different fields, where the work is not just writing code, but understanding the data, designing the system, testing it honestly and making the pieces hold perfectly together. My work has moved across machine learning, computer science, systems, data and software engineering.
+
+Beyond academics, I enjoy exploring new technologies, listening to indie music, playing indoor and outdoor sports, and participating in various competitions and extracurricular activities.
+
+Currently learning more than I am committing.</div>   
+
+
+### My Tech Stack
 
 
 <p>
@@ -53,30 +71,13 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-<br><br>
-My Portfolio: [Click Here](https://manjushwarofficial.github.io/Portfolio-Site/)
 
-
-<div align="center">
-<img src="https://github.com/Manjushwarofficial/Manjushwarofficial/blob/main/octocat-1722675939684.png" align="right" height="" width="350" />
-<img align="left" src="https://komarev.com/ghpvc/?username=Manjushwarofficial&style=plastic&abbreviated=true&color=green" align="center" />
-</div>  
-  
-### <div align="center">Hey there, I'm Manjushwar Khairkar—the kind of coder who starts with a simple idea and somehow ends up debugging existential crises. 🤯💻 Every bug has a backstory 📖, every error message is a plot twist 🎭, and every fix is a small victory worth celebrating. 🎉 Let's turn late-night debugging 🌙 into a creative adventure 🏕️ and make coding a little less stressful and a lot more fun! 🚀🔥</div>   
-
-- 🔭 Currently **diving deep** into the open-source ocean—sometimes I code, sometimes I debug for eternity.  
-
-- 🌱 **Always upskilling!** Learning how to **think better**, **solve faster**, and **break things** less often. 
-
-- ❓ Got questions? **Ask me about Fullstack Development, Git & GitHub, Open Source, or how to survive infinite `console.log()` debugging.**  
-
-- ⚡ **Fun fact:** The term **"bug"** in coding actually came from a real-life moth stuck in a computer—so yes, debugging has been a thing since the 1940s.  
-
-
-
-### 📝 GitHub Summary  
+### GitHub Summary  
 <div align="center">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manjushwarofficial&show_icons=true&theme=solarized&hide_border=true" alt="GitHub Stats" />
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjushwarofficial&layout=compact&theme=solarized&hide_border=true" alt="Top Languages" />
    <img height="162em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjushwarofficial&theme=solarized&hide_border=true" alt="GitHub Streak" /><br>
   </div>
+
+<br><br>
+My Portfolio: [Click Here](https://manjushwarofficial.github.io/Portfolio-Site/)
