@@ -15,7 +15,7 @@
 ### <div align="center">
 
 I am drawn to problems that are unusual and sit between different fields, where the work is not just writing code, but understanding the data, designing the system, testing it honestly and making the pieces hold perfectly together. My work has moved across machine learning, computer science, systems, data and software engineering.
-
+ a
 Beyond academics, I enjoy exploring new technologies, listening to indie music, playing indoor and outdoor sports, and participating in various competitions and extracurricular activities.
 
 Currently learning more than I am committing.</div>   
@@ -71,13 +71,8 @@ Currently learning more than I am committing.</div>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-
-### GitHub Summary  
-<div align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manjushwarofficial&show_icons=true&theme=solarized&hide_border=true" alt="GitHub Stats" />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjushwarofficial&layout=compact&theme=solarized&hide_border=true" alt="Top Languages" />
-   <img height="162em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjushwarofficial&theme=solarized&hide_border=true" alt="GitHub Streak" /><br>
-  </div>
-
-<br><br>
 My Portfolio: [Click Here](https://manjushwarofficial.github.io/Portfolio-Site/)
+#
+### GitHub Summary
+
+<table align="center" width="90%"> <tr> <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Profile Details" width="100%" /></td> </tr> <tr> <td width="50%" align="center"><img src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/1-repos-per-language.svg" alt="Top Languages" width="100%" /></td> <td width="50%" align="center"><img src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most Commit Language" width="100%" /></td> </tr> <tr> <td width="50%" align="center"><img src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/3-stats.svg" alt="GitHub Stats" width="100%" /></td> <td width="50%" align="center"><img src="https://raw.githubusercontent.com/Manjushwarofficial/Manjushwarofficial/main/profile-summary-card-output/solarized/4-productive-time.svg" alt="Productive Time" width="100%" /></td> </tr> </table>
