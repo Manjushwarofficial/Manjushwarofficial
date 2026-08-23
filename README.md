@@ -5,17 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Manjushwar+Khairkar;Data+Science+%26+ML+Engineer;Open+Source+Contributor&color=00FF00" alt="Typing SVG" />
 </p>
 
-
-
-<div align="center">
-<img src="https://github.com/Manjushwarofficial/Manjushwarofficial/blob/main/octocat-1722675939684.png" align="right" height="" width="350" />
-
-</div>  
+<img src="https://i.pinimg.com/originals/a0/7f/4b/a07f4b928684e1ba8af5244596d606be.gif" align="right" width="450" />
+  
   
 ### <div align="center">
 
 I am drawn to problems that are unusual and sit between different fields, where the work is not just writing code, but understanding the data, designing the system, testing it honestly and making the pieces hold perfectly together. My work has moved across machine learning, computer science, systems, data and software engineering.
- a
+ 
 Beyond academics, I enjoy exploring new technologies, listening to indie music, playing indoor and outdoor sports, and participating in various competitions and extracurricular activities.
 
 Currently learning more than I am committing.</div>   
@@ -33,6 +29,7 @@ Currently learning more than I am committing.</div>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -40,14 +37,8 @@ Currently learning more than I am committing.</div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
 <p>
@@ -63,6 +54,8 @@ Currently learning more than I am committing.</div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 <p>
