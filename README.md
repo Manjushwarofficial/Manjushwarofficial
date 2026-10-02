@@ -64,7 +64,7 @@ Currently learning more than I am committing.</div>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-### My Portfolio: [Click Here](https://manjushwarofficial.github.io/Portfolio-Site/)
+### My Portfolio: [Click Here](https://manjushwar-portfolio.lovable.app/)
 ###
 ### GitHub Summary
 
